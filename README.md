@@ -1,0 +1,2 @@
+# py_auto_draw_step
+3Dデータを自動作図してstepファイル化するスクリプト集
